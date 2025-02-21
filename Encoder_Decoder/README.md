@@ -28,6 +28,3 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-- **[Your Name]**
-
